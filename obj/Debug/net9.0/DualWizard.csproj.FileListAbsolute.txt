@@ -1,0 +1,15 @@
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\bin\Debug\net9.0\DualWizard.exe
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\bin\Debug\net9.0\DualWizard.deps.json
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\bin\Debug\net9.0\DualWizard.runtimeconfig.json
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\bin\Debug\net9.0\DualWizard.dll
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\bin\Debug\net9.0\DualWizard.pdb
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\DualWizard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\DualWizard.AssemblyInfoInputs.cache
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\DualWizard.AssemblyInfo.cs
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\DualWizard.csproj.CoreCompileInputs.cache
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\DualWizard.sourcelink.json
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\DualWizard.dll
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\refint\DualWizard.dll
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\DualWizard.pdb
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\DualWizard.genruntimeconfig.cache
+C:\Users\Aryza Villa\source\repos\DualWizard\DualWizard\obj\Debug\net9.0\ref\DualWizard.dll
