@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DualWizard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a34784681a918e73bb7334742c95c0602e0fc2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DualWizard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DualWizard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
